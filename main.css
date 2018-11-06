@@ -1,0 +1,12 @@
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+
+
+td,tr,th{
+    
+    border: 2px solid rebeccapurple;
+    padding: 5px;
+    text-align: center;
+}
