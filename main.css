@@ -39,3 +39,7 @@ td,tr,th{
     background-color: rgb(99, 23, 146);
     color: white;
 }
+
+form{
+    margin: 0 auto;
+}
