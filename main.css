@@ -45,3 +45,8 @@ label{
     width: 150px;
     height: 30px;
 }
+
+input[type=number] {
+    background-color: rgb(108, 197, 233);
+    height: 22px;
+}
