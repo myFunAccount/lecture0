@@ -1,3 +1,5 @@
+$color: white;
+
 table{
     width: 50%;
     border-collapse: collapse;
@@ -21,7 +23,7 @@ td,tr,th{
 /* Style the links inside the navigation bar */
 .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: $color;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -30,14 +32,14 @@ td,tr,th{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: $color;
     color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color: rgb(99, 23, 146);
-    color: white;
+    color: $color;
 }
 
 label{
@@ -93,7 +95,7 @@ button:hover{
 }
 
 .grid-item {
-    background-color: white;
+    background-color: $color;
     font-size: 20px;
     padding: 20px;
     text-align: center;
