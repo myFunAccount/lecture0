@@ -115,7 +115,7 @@ button:hover{
 }
 
 
-.row > div{
+.bspage{
     padding: 20px;
     border: 2px groove plum;
     background-color: darkorange;
